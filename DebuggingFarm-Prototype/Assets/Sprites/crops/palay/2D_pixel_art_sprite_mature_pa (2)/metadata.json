@@ -1,0 +1,22 @@
+{
+  "group_id": null,
+  "objects": [
+    {
+      "id": "65a3e012-35b3-4822-ae5a-7cb0ba1809f4",
+      "name": null,
+      "prompt": "2D pixel art sprite, mature palay rice plant crop with golden grains, Stardew Valley farming RPG aesthetic, top-down oblique perspective, 32x32 16-bit style, vibrant tropical color palette, clean dark outlines, flat shading, isolated on a solid white background",
+      "size": {
+        "width": 48,
+        "height": 48
+      },
+      "directions": 1,
+      "view": "low top-down",
+      "rotations": {
+        "unknown": "rotations/unknown.png"
+      },
+      "animations": {}
+    }
+  ],
+  "export_version": "1.0",
+  "export_date": "2026-07-01T13:05:53.853150"
+}
